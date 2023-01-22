@@ -1,7 +1,7 @@
 # Xray + Argo for PaaS
 
 为容器平台而生
-https://eu-cxwhcsovzbk.doprax.com/
+https://www.doprax.com/
 * * *
 
 # 目录
